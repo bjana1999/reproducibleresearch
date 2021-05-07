@@ -1,3 +1,3 @@
-# reproducibleresearch
+# reproducible research
 Bhabani Sankar Jana
-# PROJECT 1
+## PROJECT 1
